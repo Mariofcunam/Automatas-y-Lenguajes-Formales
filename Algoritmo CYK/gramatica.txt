@@ -1,0 +1,7 @@
+S
+a b
+S A B C
+S ABC BCA
+A a ASA
+B b
+C B EFC *
